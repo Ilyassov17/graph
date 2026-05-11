@@ -1,4 +1,4 @@
-# Graph Assignment
+Graph Assignment
 
 Implementation of:
 Vertex class
@@ -6,7 +6,7 @@ WeightedGraph
 Breadth First Search (BFS)
 Dijkstra Algorithm
 using Vertex instead of Edge.
-## Example Output
+Example Output
 
 BFS Traversal:
 A B C D E
